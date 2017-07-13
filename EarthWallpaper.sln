@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthWallpaper", "EarthWallpaper\EarthWallpaper.csproj", "{515FCAFB-1148-4BC8-951A-08FE161C0D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthWallpaper.Test", "EarthWallpaper.Test\EarthWallpaper.Test.csproj", "{C376CE93-7363-487B-BC4B-0C9A0ECF40DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeImages", "MergeImages\MergeImages.csproj", "{75813738-47D9-4640-9C72-7D03A84219D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515FCAFB-1148-4BC8-951A-08FE161C0D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515FCAFB-1148-4BC8-951A-08FE161C0D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515FCAFB-1148-4BC8-951A-08FE161C0D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515FCAFB-1148-4BC8-951A-08FE161C0D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C376CE93-7363-487B-BC4B-0C9A0ECF40DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C376CE93-7363-487B-BC4B-0C9A0ECF40DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C376CE93-7363-487B-BC4B-0C9A0ECF40DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C376CE93-7363-487B-BC4B-0C9A0ECF40DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75813738-47D9-4640-9C72-7D03A84219D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75813738-47D9-4640-9C72-7D03A84219D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75813738-47D9-4640-9C72-7D03A84219D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75813738-47D9-4640-9C72-7D03A84219D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
